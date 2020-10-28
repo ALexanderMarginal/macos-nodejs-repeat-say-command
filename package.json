@@ -1,0 +1,25 @@
+{
+  "name": "macos-nodejs-repeat-say-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ALexanderMarginal/macos-nodejs-repeat-say-command.git"
+  },
+  "keywords": [
+    "macos",
+    "nodejs",
+    "repeat",
+    "say"
+  ],
+  "author": "Alexander Marginal (alexander.marginal@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALexanderMarginal/macos-nodejs-repeat-say-command/issues"
+  },
+  "homepage": "https://github.com/ALexanderMarginal/macos-nodejs-repeat-say-command#readme"
+}
